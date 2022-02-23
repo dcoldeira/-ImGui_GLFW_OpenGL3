@@ -1,0 +1,5 @@
+﻿  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  main.cpp
+  Generating Code...
+  glfw_opengl3.vcxproj -> C:\Users\dcold\Documents\Cpp\ImGui_GLFW_OpenGL3\source\glfw_opengl3\Debug\glfw_opengl3.exe
